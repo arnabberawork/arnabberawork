@@ -122,6 +122,21 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -->
+---
+
+## Github Stats 
+
+<table><tr><td valign="top" height="50%">
+  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=arnabberawork&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+</td><td valign="top" height="150px">
+<div align="left"><img src="https://streak-stats.demolab.com/?user=arnabberawork" align="center" /></div> 
+  
+</td><td valign="top" height="150px">
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabberawork&hide_border=true&layout=compact" align="center" /></div> 
+
+</td></tr></table>  
 
 ---
 
