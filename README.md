@@ -82,11 +82,15 @@ Feel free to reach out to discuss collaboration opportunities, projects, or any 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.svg" alt="Flask" height="50" /></a>
 </div>
 
-### Databases and Cloud Hosting
+### Databases
 <div align="left">
 <a href="https://www.oracle.com/database/" target="_blank"><img style="margin: 10px" src="https://www.oracle.com/a/ocom/img/oracle-logo.svg" alt="Oracle" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" /></a>
+
+### Cloud Hosting
+
+
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://kubernetes.io/images/favicon.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50" /></a>
