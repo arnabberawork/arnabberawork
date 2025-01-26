@@ -32,7 +32,6 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 </div>
 
-
 ### AI & Machine Learning
 <div align="left">
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo.svg" alt="Scikit-learn" height="50" /></a>
@@ -88,19 +87,6 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://azurecomcdn.azureedge.net/cvt-1d96462c8c3f1b5e3c9b992ceb1793d5a45a9b0ff5e46b7790d8fb02bf0f9871/images/page/frontpage/index/hero/azure-logo.svg" alt="Azure" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-### Databases and Cloud Hosting  
-<div align="left">  
-<a href="https://www.oracle.com/database/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
 
 </td><td valign="top" width="33%">
 
