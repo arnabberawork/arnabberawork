@@ -21,61 +21,71 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ---
 
-##  ⚒️ Tech Stacks
 
-### Programming Languages & Markup Languages 
-<div align="left">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
-</div>  
+## ⚒️ Tech Stacks
 
-
-## AI & Machine Learning
-<div align="left"> 
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo.svg" alt="Scikit-learn" height="50" /></a> 
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a> 
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a> 
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan-icon.svg" alt="GANs" height="50" /></a> 
-</div>
-
-
-## Generative AI
-<div align="left"> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-icon.svg" alt="OpenAI" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gemini-icon.svg" alt="Gemini" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/langchain-icon.svg" alt="Langchain" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/huggingface-icon.svg" alt="Huggingface" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/crewai-icon.svg" alt="CrewAI" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/serper-icon.svg" alt="Serper" height="50" /></a> 
-</div>
-
-
-## Data Analysis
+### Programming Languages & Markup Languages
 <div align="left">
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="Numpy" height="50" /></a> 
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a> 
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib-original.svg" alt="Matplotlib" height="50" /></a> 
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn-original.svg" alt="Seaborn" height="50" /></a> 
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau-icon.svg" alt="Tableau" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 </div>
 
+
+### AI & Machine Learning
+<div align="left">
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo.svg" alt="Scikit-learn" height="50" /></a>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Generative_adversarial_network_diagram.svg/1200px-Generative_adversarial_network_diagram.svg.png" alt="GANs" height="50" /></a>
+</div>
+
+### Generative AI
+<div align="left">
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="50" /></a>
+<a href="https://deepmind.com/research/publications/gemini" target="_blank"><img style="margin: 10px" src="https://deepmind.com/images/deepmind_logo_dark.svg" alt="Gemini" height="50" /></a>
+<a href="https://python.langchain.com/en/latest/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/en/latest/_static/langchain-logo.svg" alt="Langchain" height="50" /></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" height="50" /></a>
+<a href="https://crewai.com/" target="_blank"><img style="margin: 10px" src="https://crewai.com/images/crewai-logo.svg" alt="CrewAI" height="50" /></a>
+<a href="https://serper.dev/" target="_blank"><img style="margin: 10px" src="https://serper.dev/images/serper-logo.svg" alt="Serper" height="50" /></a>
+</div>
+
+### Data Analysis
+<div align="left">
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://numpy.org/images/logo.svg" alt="Numpy" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="50" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" height="50" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" /></a>
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://www.tableau.com/sites/default/files/pages/tableau_logo_stacked_rgb_principal_standard.svg" alt="Tableau" height="50" /></a>
+</div>
 
 ### Integration Technologies
-<div align="left"> 
-<a href="https://www.webmethods.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/softwareag.svg" alt="SoftwareAG" height="50" /></a> 
-<a href="https://www.webmethods.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webmethods-icon.svg" alt="WebMethods" height="50" /></a> 
-<a href="https://www.camunda.com/bpmn/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bpmn-icon.svg" alt="BPM" height="50" /></a> 
-<a href="https://www.ibm.com/topics/jms" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jms-icon.svg" alt="JMS" height="50" /></a> 
+<div align="left">
+<a href="https://www.softwareag.com/" target="_blank"><img style="margin: 10px" src="https://www.softwareag.com/etc/clientlibs/foundation/clientlibs/resources/images/logo.svg" alt="SoftwareAG" height="50" /></a>
+<a href="https://www.softwareag.com/us/products/webmethods.html" target="_blank"><img style="margin: 10px" src="https://www.softwareag.com/etc/clientlibs/foundation/clientlibs/resources/images/webmethods-logo.svg" alt="WebMethods" height="50" /></a>
+<a href="https://www.camunda.com/bpmn/" target="_blank"><img style="margin: 10px" src="https://camunda.com/wp-content/uploads/2020/07/bpmn-logo.svg" alt="BPM" height="50" /></a>
+<a href="https://www.ibm.com/topics/jms" target="_blank"><img style="margin: 10px" src="https://www.ibm.com/brand/experience-guides/design/bx--brand-expression/bx--logos-and-icons/bx--ibm-logo.svg" alt="JMS" height="50" /></a>
 </div>
 
+### Framework and Libraries
+<div align="left">
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.svg" alt="Flask" height="50" /></a>
+</div>
 
-### Framework and Libraries  
-<div align="left">  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>   
+### Databases and Cloud Hosting
+<div align="left">
+<a href="https://www.oracle.com/database/" target="_blank"><img style="margin: 10px" src="https://www.oracle.com/a/ocom/img/oracle-logo.svg" alt="Oracle" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://kubernetes.io/images/favicon.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="GCP" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="50" /></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://azurecomcdn.azureedge.net/cvt-1d96462c8c3f1b5e3c9b992ceb1793d5a45a9b0ff5e46b7790d8fb02bf0f9871/images/page/frontpage/index/hero/azure-logo.svg" alt="Azure" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
