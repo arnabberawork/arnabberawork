@@ -53,8 +53,8 @@ Feel free to reach out to discuss collaboration opportunities, projects, or any 
 ### Generative AI
 <div align="left">
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="50" /></a>
-<a href="https://deepmind.com/research/publications/gemini" target="_blank"><img style="margin: 10px" src="https://deepmind.com/images/deepmind_logo_dark.svg" alt="Gemini" height="50" /></a>
-<a href="https://python.langchain.com/en/latest/" target="_blank"><img style="margin: 10px" src="https://python.langchain.com/en/latest/_static/langchain-logo.svg" alt="Langchain" height="50" /></a>
+<a href="https://deepmind.google/technologies/gemini" target="_blank"><img style="margin: 10px" src="https://deepmind.com/images/deepmind_logo_dark.svg" alt="Gemini" height="50" /></a>
+<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://www.langchain.com/en/latest/_static/langchain-logo.svg" alt="Langchain" height="50" /></a>
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" height="50" /></a>
 <a href="https://crewai.com/" target="_blank"><img style="margin: 10px" src="https://crewai.com/images/crewai-logo.svg" alt="CrewAI" height="50" /></a>
 <a href="https://serper.dev/" target="_blank"><img style="margin: 10px" src="https://serper.dev/images/serper-logo.svg" alt="Serper" height="50" /></a>
@@ -90,7 +90,6 @@ Feel free to reach out to discuss collaboration opportunities, projects, or any 
 
 ### Cloud Hosting
 
-
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://kubernetes.io/images/favicon.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50" /></a>
@@ -98,7 +97,6 @@ Feel free to reach out to discuss collaboration opportunities, projects, or any 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="50" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://azurecomcdn.azureedge.net/cvt-1d96462c8c3f1b5e3c9b992ceb1793d5a45a9b0ff5e46b7790d8fb02bf0f9871/images/page/frontpage/index/hero/azure-logo.svg" alt="Azure" height="50" /></a>
 </div>
-
 
 </td><td valign="top" width="33%">
 
