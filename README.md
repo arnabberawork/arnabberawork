@@ -2,22 +2,30 @@
 ## 🎯 ***API and Integration Consultant | Generative and Agentic AI Enthusiast***
 ## ✨ ***Specializing in AI & ML with Python | Microsoft Azure & SoftwareAG Certified | Java WebMethods Integration BPM Consultant*** ✨
 
----
-
-## 🌐 Navigation
-- [About Me](#about-me)
-- [Key Skills](#key-skills)
-- [Tech Stacks](#tech-stacks)
-- [Get In Touch](#get-in-touch)
 
 ---
-![](https://komarev.com/ghpvc/?username=arnabberawork&color=red)
+
 
 ## 🚀 About Me
 
 With over 8 years of experience, I specialize in API integration and AI/ML, delivering innovative solutions for complex technical challenges. As an API and Integration Specialist, I have led large-scale projects, improving system interoperability and reducing deployment times.
 
 I design intelligent systems that automate workflows, enhance decision-making, and provide actionable insights. Passionate about optimization and innovation, I thrive at creating scalable, data-driven solutions that drive operational excellence and measurable business impact.
+
+
+---
+
+
+## 📢 Get In Touch
+
+![](https://komarev.com/ghpvc/?username=arnabberawork&color=red)
+
+Feel free to reach out to discuss collaboration opportunities, projects, or any other inquiries!
+
+- **✉ Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)  
+- **📫 Website**:[View My Website](https://arnabberawork.github.io/portfolio/)
+- **👤 LinkedIn**: [View My Profile](https://www.linkedin.com/in/arnabberawork)  
+- **💻 GitHub**: [Visit My GitHub](https://github.com/arnabberawork)
 
 ---
 
@@ -159,15 +167,5 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ---
 
-## 📢 Get In Touch
-
-Feel free to reach out to discuss collaboration opportunities, projects, or any other inquiries!
-
-- **✉ Email**: [arnabbera.official@gmail.com](mailto:arnabbera.official@gmail.com)  
-- **📫 Website**:[View My Website](https://arnabberawork.github.io/portfolio/)
-- **👤 LinkedIn**: [View My Profile](https://www.linkedin.com/in/arnabberawork)  
-- **💻 GitHub**: [Visit My GitHub](https://github.com/arnabberawork)
-
----
 
 &copy; 2025 Arnab Bera. All rights reserved.
