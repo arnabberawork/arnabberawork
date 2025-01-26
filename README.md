@@ -38,7 +38,18 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a> 
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-icon.svg" alt="OpenAI" height="50" /></a> <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan-icon.svg" alt="GANs" height="50" /></a> 
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan-icon.svg" alt="GANs" height="50" /></a> 
+</div>
+
+
+## Generative AI
+<div align="left"> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-icon.svg" alt="OpenAI" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gemini-icon.svg" alt="Gemini" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/langchain-icon.svg" alt="Langchain" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/crew-icon.svg" alt="Crew" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/serper-icon.svg" alt="Serper" height="50" /></a> 
 </div>
 
 
@@ -61,11 +72,7 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ### Framework and Libraries  
 <div align="left">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
