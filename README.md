@@ -21,16 +21,6 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ---
 
-## 🔧 Key Skills
-
-- **AI & Machine Learning**: Python, Machine Learning, Neural Networks, Deep Learning, NLP, Generative AI (GANs, Transformer Models), Model Deployment
-- **Data Analysis**: Exploratory Data Analysis (EDA), Predictive Modeling, Data Visualization, Tableau
-- **Integration Technologies**: API Development & Integration, WebMethods, BPM, Java, UM, JMS
-- **Database**: Oracle, SQL
-- **Cloud & DevOps**: Azure DevOps, Cloud Computing
-
----
-
 ##  ⚒️ Tech Stacks
 
 ### Programming Languages & Markup Languages 
@@ -40,6 +30,34 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
 </div>  
+
+
+## AI & Machine Learning
+<div align="left"> 
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-logo.svg" alt="Scikit-learn" height="50" /></a> 
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a> 
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-icon.svg" alt="OpenAI" height="50" /></a> <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan-icon.svg" alt="GANs" height="50" /></a> 
+</div>
+
+
+## Data Analysis
+<div align="left"> 
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a> 
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib-original.svg" alt="Matplotlib" height="50" /></a> 
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn-original.svg" alt="Seaborn" height="50" /></a> 
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau-icon.svg" alt="Tableau" height="50" /></a> 
+</div>
+
+
+### Integration Technologies
+<div align="left"> 
+<a href="https://www.webmethods.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webmethods-icon.svg" alt="WebMethods" height="50" /></a> 
+<a href="https://www.camunda.com/bpmn/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bpmn-icon.svg" alt="BPM" height="50" /></a> 
+<a href="https://www.ibm.com/topics/jms" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jms-icon.svg" alt="JMS" height="50" /></a> 
+</div>
+
 
 ### Framework and Libraries  
 <div align="left">  
@@ -55,10 +73,10 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ### Databases and Cloud Hosting  
 <div align="left">  
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
+<a href="https://www.oracle.com/database/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
@@ -66,11 +84,6 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 </td><td valign="top" width="33%">
 
-
-### Softwares and Tools  
-<div align="left">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-</div>
 
 <!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
