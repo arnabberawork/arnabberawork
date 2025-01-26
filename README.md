@@ -48,13 +48,15 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-icon.svg" alt="OpenAI" height="50" /></a> 
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gemini-icon.svg" alt="Gemini" height="50" /></a> 
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/langchain-icon.svg" alt="Langchain" height="50" /></a> 
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/crew-icon.svg" alt="Crew" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/huggingface-icon.svg" alt="Huggingface" height="50" /></a> 
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/crewai-icon.svg" alt="CrewAI" height="50" /></a> 
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/serper-icon.svg" alt="Serper" height="50" /></a> 
 </div>
 
 
 ## Data Analysis
-<div align="left"> 
+<div align="left">
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="Numpy" height="50" /></a> 
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a> 
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib-original.svg" alt="Matplotlib" height="50" /></a> 
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn-original.svg" alt="Seaborn" height="50" /></a> 
@@ -64,6 +66,7 @@ I design intelligent systems that automate workflows, enhance decision-making, a
 
 ### Integration Technologies
 <div align="left"> 
+<a href="https://www.webmethods.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/softwareag.svg" alt="SoftwareAG" height="50" /></a> 
 <a href="https://www.webmethods.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webmethods-icon.svg" alt="WebMethods" height="50" /></a> 
 <a href="https://www.camunda.com/bpmn/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bpmn-icon.svg" alt="BPM" height="50" /></a> 
 <a href="https://www.ibm.com/topics/jms" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jms-icon.svg" alt="JMS" height="50" /></a> 
